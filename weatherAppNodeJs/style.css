@@ -1,0 +1,44 @@
+* {
+ padding: 0px;
+ margin: 0px;
+ box-sizing: border-box;
+}
+
+.container {
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ height: 100vh;
+ background-color: lightcoral;
+}
+
+.box {
+ background-color: skyblue;
+ height: 400px;
+ width: 300px;
+ padding: 20px;
+ text-align: center;
+}
+
+.weathericon {
+ padding: 50px 0px;
+ text-align: center;
+ font-size: 60px;
+}
+
+.location {
+ padding: 10px;
+}
+
+.info p {
+ padding-bottom: 20px;
+ /* opacity: 0.6; */
+ font-weight: bolder;
+ color: grey;
+}
+
+.info h3 {
+ padding-top: 10px;
+ /* opacity: ; */
+ color: grey;
+}
