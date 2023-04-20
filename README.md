@@ -1,3 +1,3 @@
 # weatherApp
 
-![Screenshot](ss.png)
+![Screenshot](ss/s1.png)
